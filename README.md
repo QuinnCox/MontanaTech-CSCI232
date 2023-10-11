@@ -1,6 +1,13 @@
 # Montana Tech GitHub Basics Lab
 In this lab, you will become familiar with GitHub as well as the importance of it.
 
+## Submission Information
+- Quinn Cox
+- Data Structures and Algorithms 232 Sec 01
+- No due date posted
+- Git: [view the rest of my GitHub here](https://github.com/QuinnCox)
+- Favorite Passtime: Skiing
+
 ## Objectives
 - Learn how to fork a repository
 - Learn how to clone a repository
